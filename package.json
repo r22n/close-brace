@@ -1,0 +1,31 @@
+{
+  "name": "close-brace",
+  "version": "1.0.0",
+  "description": "Close a brace in your text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r22n/close-brace.git"
+  },
+  "author": "r22n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r22n/close-brace/issues"
+  },
+  "homepage": "https://github.com/r22n/close-brace#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.2"
+  },
+  "keywords": [
+    "brace",
+    "close",
+    "interpolate"
+  ]
+}
